@@ -13,4 +13,4 @@ spring:
 server:
   port: 8088
 env:
-  dev11111111222222233334
+  dev
