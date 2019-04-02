@@ -15,5 +15,3 @@ spring:
     password: guest
 env:
   dev
-name:
-  wp
