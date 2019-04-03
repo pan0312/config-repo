@@ -16,6 +16,6 @@ spring:
   redis:
     host: 192.168.109.128
     port: 6379
-    password: 91031
+    password: 910312
 env:
   dev
