@@ -1,10 +1,10 @@
 zuul:
   routes:
-    one:
-      path: /myProduct/**
-      serviceId: product
-      #不过滤cookie信息
-      sensitiveHeaders:
+#     one:
+#       path: /myProduct/**
+#       serviceId: product
+#       #不过滤cookie信息
+#       sensitiveHeaders:
 #简洁写法
     config: /myConfig/**
     product: /myProduct/**
