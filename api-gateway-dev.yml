@@ -1,8 +1,8 @@
 zuul:
   routes:
     myConfig:
-      path: /myConfig/**
-      serviceId: config
+      path: /myProduct/**
+      serviceId: product
       #不过滤cookie信息
       sensitiveHeaders:
 #简洁写法
