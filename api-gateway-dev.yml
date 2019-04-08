@@ -7,6 +7,7 @@ zuul:
       sensitiveHeaders:
 #简洁写法
     config: /myConfig/**
+    product: /myProduct/**
   #排除路由
 #   ignored-patterns:
 #     - /**/product/listForOrder
