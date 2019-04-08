@@ -1,6 +1,6 @@
 zuul:
   routes:
-    myConfig:
+    one:
       path: /myProduct/**
       serviceId: product
       #不过滤cookie信息
