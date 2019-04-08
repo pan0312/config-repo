@@ -6,7 +6,7 @@ zuul:
 #       #不过滤cookie信息
 #       sensitiveHeaders:
 #简洁写法
-    config: /myConfig/**
+#     config: /myConfig/**
     product: /myProduct/**
   #排除路由
 #   ignored-patterns:
