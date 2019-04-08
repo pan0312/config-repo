@@ -8,5 +8,5 @@ zuul:
 #简洁写法
 #    config: /myProduct/**
   #排除路由
-  ignored-patterns:
-    - /**/product/listForOrder
+#   ignored-patterns:
+#     - /**/product/listForOrder
