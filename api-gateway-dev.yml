@@ -11,3 +11,8 @@ zuul:
   #排除路由
 #   ignored-patterns:
 #     - /**/product/listForOrder
+spring:
+  redis:
+    host: 192.168.109.129
+    port: 6379
+    password: 910312
